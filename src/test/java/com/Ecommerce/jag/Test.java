@@ -6,6 +6,8 @@ public class Test {
 	{
 		System.out.println("pushing test to git directly");
 		System.out.println("Pushing Update");
+		
+		System.out.println("Push from the TE side");
 
 	}
 
