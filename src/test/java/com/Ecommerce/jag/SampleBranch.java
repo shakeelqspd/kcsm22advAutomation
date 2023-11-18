@@ -1,6 +1,6 @@
 package com.Ecommerce.jag;
 
-public class SampleBranch1 {
+public class SampleBranch {
 
 	public static void main(String[] args) 
 	{
